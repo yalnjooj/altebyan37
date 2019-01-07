@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "arabic-font";
+    src: url("../fonts/HelveticaNeueW23forSKY-Bd.ttf");
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#myVideo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.col-md-6 {
+    text-align: center;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.466);
+    font-family: 'arabic-font';
+    color: white;
+}
+
+.col-md-6 h2 {
+    margin-top: 20px;
+}
+
+.col-md-6 p {
+    margin-top: 30px;
+}
+
+.col-md-6 img {
+    margin-top: 50px;
+}
+
+.textAlignRight a {
+    text-align: right;
+}
+
+.marginTop-30 {
+    margin-top: 30px;
+}

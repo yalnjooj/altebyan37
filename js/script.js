@@ -1,0 +1,1 @@
+$(".col-md-6").css("height", $(window).height());
